@@ -4,7 +4,7 @@
 
 static long num_paso = 10000000; 
 double paso;
-#define NUM_THREADS 35
+#define NUM_THREADS 40
 
 void main(int argc, char const *argv[])
 {
